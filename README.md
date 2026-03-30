@@ -3,8 +3,7 @@
 > **Why is this public?** Some sellers charge up to 500 € for a solution like this. In our opinion, that is massively overpriced. The board costs around 20 €, and even with labor factored in, a fair price is no more than 50 €. This project exists so nobody has to overpay.
 
 **[English](README.md)** ｜
-**[简体中文](README_zh-CN.md)** ｜
-**[日本語](README_ja.md)** ｜
+**[简体中文](README_zh-CN.md)**
 
 ## 📌 Prerequisites
 
